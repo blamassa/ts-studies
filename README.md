@@ -1,6 +1,8 @@
 # ts-studies
 Repository for studies on time series analysis, modelling and interpretation focusing on energy resources and socio-economic indicators.
 
+**obs:** pySSA script or Singular Spectrum Analysis was taken from this repo: [aj-cloete/pySSA](https://github.com/aj-cloete/pySSA).
+
 ### Further readings:
 
 - [Time Series Forecasting Methods - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/) (Blog)
