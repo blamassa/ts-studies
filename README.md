@@ -1,6 +1,8 @@
 # ts-studies
 Repository for studies on time series analysis, modelling and interpretation focusing on energy resources and socio-economic indicators.
 
+Great book on the subject: [Forecasting: principles and practice](https://otexts.com/fpp2/selecting-predictors.html), by Rob J Hyndman. Also, [Causality: Models, Reasoning and Inference](http://bayes.cs.ucla.edu/BOOK-2K/), by Judea Perl.
+
 **obs:** pySSA script or Singular Spectrum Analysis was taken from this repo: [aj-cloete/pySSA](https://github.com/aj-cloete/pySSA).
 
 ### Further readings:
